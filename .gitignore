@@ -1,0 +1,9 @@
+# Proteção básica; isto NÃO substitui uma revisão de conteúdo.
+.env
+.env.*
+!.env.example
+*credentials*
+*secret*
+*backup*
+node_modules/
+.DS_Store
